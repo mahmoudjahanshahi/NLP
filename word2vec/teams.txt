@@ -1,0 +1,13 @@
+Barcelona Lionel_Messi Liverpool
+Barcelona Lionel_Messi Bayern_Munich
+Barcelona Lionel_Messi Real_Madrid
+Barcelona Lionel_Messi Juventus
+Barcelona Lionel_Messi Chelsea
+Barcelona Lionel_Messi Manchester_Utd
+Barcelona Lionel_Messi Atletico_Madrid
+Barcelona Lionel_Messi Paris_Saint_Germain
+Barcelona Lionel_Messi Dortmund
+Barcelona Lionel_Messi AC_Milan
+Barcelona Lionel_Messi Inter_Milan
+Barcelona Lionel_Messi Arsenal
+Barcelona Lionel_Messi AS_Roma
