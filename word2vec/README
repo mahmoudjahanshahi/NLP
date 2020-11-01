@@ -8,3 +8,7 @@ File description by Google:
 "We are publishing pre-trained vectors trained on part of Google News dataset (about 100 billion words). The model contains 300-dimensional vectors for 3 million words and phrases. The phrases were obtained using a simple data-driven approach described in [2]."
 
 [2] Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. Distributed Representations of Words and Phrases and their Compositionality. In Proceedings of NIPS, 2013.
+
+----------------------
+
+French embeddings from cross_lingual_text_classification https://github.com/vjstark/crosslingual_text_classification -> https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.fr.vec
