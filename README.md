@@ -1,6 +1,6 @@
 # NLP
 
-This is my personal repository to practice NLP.
+This is my personal repository to practice NLP. Inspired by [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) (offered by deeplearning.ai)
 
 All used datasets are publicly available and their sources have been mentioned in respective directory README files.
 
@@ -26,3 +26,4 @@ Any suggestions or corrections to my codes are absolutely appreciated.
 
 - Auto Correct
 - Minimum Edit Distance
+- Auto Complete (n-gram model)
